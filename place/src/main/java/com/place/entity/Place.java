@@ -21,7 +21,7 @@ public class Place {
 	}
 
 	/**
-	 * @return the name
+	 * @return the NAME
 	 */
 	public String getName() {
 		return name;
