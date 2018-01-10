@@ -6,7 +6,7 @@ public class Place {
 	private String name;
 
 	/**
-	 * @return the id
+	 * @return the ID
 	 */
 	public long getId() {
 		return id;
